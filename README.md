@@ -14,7 +14,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <div align="center">
-  <img src="Fate Zero.gif" width="500">
+  <img width="498" height="374" alt="gif" src="https://github.com/user-attachments/assets/f6c77572-b905-4803-b07d-2f21557a43fd" />
 </div>
 
 ![LeetCode Stats](leetcode.svg)
