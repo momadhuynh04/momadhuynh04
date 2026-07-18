@@ -13,5 +13,5 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_leetcode: yes
-          plugin_leetcode_user: PuMLZQN8Ma
+          plugin_leetcode_user: huynhhoang04
           plugin_leetcode_sections: skills
