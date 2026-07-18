@@ -1,4 +1,4 @@
-## Lọ Vương Giáng Thế
+## HI!
 - I'm studying data science
 - I'm building small tool
 - Pls leave issues and discussions
