@@ -17,5 +17,6 @@
   <img width="498" height="274" alt="Fate Zero GIF" src="https://github.com/user-attachments/assets/2392df65-3205-4db5-b44a-439f8d499724" />
 </div>
 
+![LeetCode Stats](leetcode.svg)
 
 
