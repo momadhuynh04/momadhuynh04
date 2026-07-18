@@ -1,7 +1,7 @@
 ## HI!
 - I'm studying data science
 - I'm building small tool
-- Pls leave issues and discussions
+- Pls left issues and discussions
 
 ## Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
