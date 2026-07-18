@@ -24,3 +24,7 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/huynhhoang04?theme=dark)](https://leetcode.com/huynhhoang04)
 
+<a href="https://www.hackerrank.com/profile/huynh696k">
+  <img src="https://img.shields.io/badge/HackerRank-SQL_2_Stars-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL">
+</a>
+
