@@ -14,9 +14,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <div align="center">
-  <video autoplay loop muted playsinline width="498" height="274" style="border-radius: 10px;">
-    <source src="https://github.com/user-attachments/assets/2392df65-3205-4db5-b44a-439f8d499724">
-  </video>
+  <img src="Fate Zero.gif" width="500">
 </div>
 
 ![LeetCode Stats](leetcode.svg)
