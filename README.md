@@ -1,6 +1,9 @@
 ## Lọ Vương Giáng Thế
+- I'm studying data science
+- I'm building small tool
+- Pls leave issues and discussions
 
-# Stack
+## Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,9 +17,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <div align="center">
-  <img width="498" height="374" alt="gif" src="https://github.com/user-attachments/assets/f6c77572-b905-4803-b07d-2f21557a43fd" />
+  <img width="898" height="374" alt="gif" src="https://github.com/user-attachments/assets/f6c77572-b905-4803-b07d-2f21557a43fd" />
 </div>
 
 ![LeetCode Stats](leetcode.svg)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/huynhhoang04?theme=dark)](https://leetcode.com/huynhhoang04)
 
