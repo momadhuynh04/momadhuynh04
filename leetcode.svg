@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="188" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="158" class="">
     <defs>
         <style/>
     </defs>
@@ -24,11 +24,11 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x4</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x2</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x2</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x2</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Divide and Conquer <span class="count">x1</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x1</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Recursion <span class="count">x1</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Sliding Window <span class="count">x1</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x1</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x1</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x1</span></div>
                     </div>
