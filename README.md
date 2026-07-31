@@ -1,7 +1,5 @@
 ## HI!
-- I'm studying data science
-- I'm building small tool
-- Pls left issues and discussions
+- I do not like woman
 
 ## Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
